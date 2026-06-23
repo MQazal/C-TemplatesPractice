@@ -84,10 +84,3 @@ C-TemplatesPractice/
 ## 🎯 Purpose
 
 This project was built to **deeply understand how STL containers work internally** — by implementing them from scratch using templates, raw pointers, and manual memory management — rather than just consuming them as black boxes.
-
----
-
-## 👤 Author
-
-**Mohammed Qazal**
-[LinkedIn](https://www.linkedin.com/in/mohammed-qazal-dev) • [GitHub](https://github.com/MQazal)
